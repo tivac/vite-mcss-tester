@@ -1,0 +1,14 @@
+.red {
+    composes: box from "./shared.mcss";
+
+    font-weight: bold;
+    border-color: red;
+    color: red;
+}
+
+.blue {
+    composes: box from "./shared.mcss";
+
+    border-color: blue;
+    color: blue;
+}

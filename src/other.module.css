@@ -1,0 +1,6 @@
+.green {
+    composes: box from "./shared.module.css";
+
+    border-color: green;
+    color: green;
+}

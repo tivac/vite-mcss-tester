@@ -1,0 +1,15 @@
+html {
+    background: black;
+    color: white;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 5px solid yellow;
+}

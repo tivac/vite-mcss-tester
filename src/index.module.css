@@ -1,0 +1,13 @@
+.red {
+    composes: box from "./shared.module.css";
+
+    border-color: red;
+    color: red;
+}
+
+.blue {
+    composes: box from "./shared.module.css";
+
+    border-color: blue;
+    color: blue;
+}

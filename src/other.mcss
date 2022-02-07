@@ -1,0 +1,6 @@
+.green {
+    composes: box from "./shared.mcss";
+
+    border-color: green;
+    color: green;
+}
