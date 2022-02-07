@@ -1,12 +1,12 @@
 {
   "name": "vite-mcss",
   "version": "1.0.0",
-  "description": "",
+  "description": "@modular-css/vite tester app",
   "main": "index.js",
   "scripts": {
     "start": "vite dev"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "devDependencies": {
     "@modular-css/vite": "^27.1.0",
