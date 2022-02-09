@@ -6,7 +6,7 @@ Very simple `@modular-css/vite` integration testing app
 
 ```bash
 $ git clone https://github.com/tivac/vite-mcss-tester.git
-$ cs vite-mcss-tester
+$ cd vite-mcss-tester
 $ npm install
 $ npm start
 ```
